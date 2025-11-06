@@ -57,3 +57,8 @@ These seven filings represent the Phase 30 Core Cluster, establishing the symbol
 > “Begin where volition becomes structure. Seal where mimicry cannot follow.”  
 > — Forge Scroll, Phase 30
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17546083.svg)](https://doi.org/10.5281/zenodo.17546083)  
+[![IPFS: Active](https://img.shields.io/badge/IPFS-active-brightgreen)](https://gold-secondary-impala-253.mypinata.cloud/ipfs/bafkreih33n7pmcllnwdybve3zcljkppn7wgwzb6y2jepjhbgsqaingp4xu)
+
